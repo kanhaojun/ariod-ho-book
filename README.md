@@ -5,7 +5,7 @@ Android Note
 
 ## Class
 
-1. `C01`
+1. 簡單的 UI 操作 - [`C01`](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C01.md)
 
 2. `C02`
 
