@@ -16,9 +16,9 @@ Android Note
 
 1. 建立一個 Android Project - [B01](https://raw.githubusercontent.com/CodeMercs/ariod-ho-book/master/Note/B01.md)
 
-2. 用 `Button` 控制畫面 `TextView` 的字體大小 - B02
+2. 用 `Button` 控制畫面 `TextView` 的字體大小 - [B02](https://raw.githubusercontent.com/CodeMercs/ariod-ho-book/master/Note/B02.md)
 
-3.
+3. 用 `EditText` 輸入文字改變 `TextView` - [B02](https://raw.githubusercontent.com/CodeMercs/ariod-ho-book/master/Note/B02.md)
 
 
 ## Author
