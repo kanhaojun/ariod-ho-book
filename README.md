@@ -22,9 +22,9 @@ Android Note
 
 3. 用 `EditText` 輸入文字改變 `TextView` - [B02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B02.md)
 
-4. 建立一個聯絡人輸入畫面，並說明 `LinearLayout` 等 Layout 處理 - B03
+4. 建立一個聯絡人輸入畫面，並說明 `LinearLayout` 等 Layout 處理 - [B03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B03.md)
 
-5. 字體色彩練習 - B03
+5. 字體色彩練習 - [B03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B03.md)
 
 6.
 
