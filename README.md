@@ -14,8 +14,11 @@ Android Note
 
 ## Book
 
-1. 建立一個 Android Project
+1. 建立一個 Android Project - B01
 
+2. 用 `Button` 控制畫面 `TextView` 的字體大小 - B02
+
+3.
 
 
 ## Author
