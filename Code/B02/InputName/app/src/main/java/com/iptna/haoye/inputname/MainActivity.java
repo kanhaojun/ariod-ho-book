@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
                 new android.view.View.OnClickListener() {
                     public void onClick(View v) {
                         String str = iptxt.getText().toString();
-                        String msg = "Please the importation name.";
+                        String msg = "Please input your name.";
                         if(str.length() == 0){
                             txtv.setText("Hello World!");
                             Toast.makeText(
