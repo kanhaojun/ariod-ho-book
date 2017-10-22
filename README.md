@@ -26,7 +26,11 @@ Android Note
 
 5. 字體色彩練習 - [B03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B03.md)
 
-6.
+6. 加減處理的事件練習 - [B04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B04.md)
+
+7. Touch 控制手機震動 - [B04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B04.md)
+ 
+8.
 
 
 ## Author
