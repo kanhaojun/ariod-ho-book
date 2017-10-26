@@ -30,11 +30,15 @@ Android Note
 
 7. Touch 控制手機震動 - [B04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B04.md)
  
-8.
+8. RadioButton 的購票頁面 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+
+9. RadioButton 的溫度轉換 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+
+10. CheckBox 的點餐頁面 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
 
 ## Test
 
-1. 建立註冊畫面 - [T01]()
+1. 建立註冊畫面 - [T01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T01.md)
 
 2.
 
