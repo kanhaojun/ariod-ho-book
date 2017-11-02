@@ -11,8 +11,11 @@ Android Note
 
 3. `ListView` 練習 - [C03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C03.md)
 
-4.
+4. `SeekBar` 練習 - [C04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C04.md)
 
+5. Arduino 藍芽連線確認 - [C04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C04.md)
+
+6.
 
 ## Book
 
@@ -36,7 +39,10 @@ Android Note
 
 10. CheckBox 的點餐頁面 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
 
-11.
+11. ImageView 的練習 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
+
+12.
+
 
 ## Test
 
