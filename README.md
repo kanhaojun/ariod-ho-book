@@ -43,7 +43,10 @@ Android Note
 
 12. Spinner 下拉購票選單練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
 
-13.
+13. Spinner 與 EditText 的運動計算 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+
+14.
+
 
 ## Test
 
