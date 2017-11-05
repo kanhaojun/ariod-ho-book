@@ -41,8 +41,9 @@ Android Note
 
 11. ImageView 的練習 - [B05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B05.md)
 
-12.
+12. Spinner 下拉購票選單練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
 
+13.
 
 ## Test
 
