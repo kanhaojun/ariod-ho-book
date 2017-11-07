@@ -57,7 +57,7 @@ Android & Arduino Note
 
 ## Arduino
 
-1. Run Arduino  - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
+1. Run Arduino  - [A01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
 
 2.
 
