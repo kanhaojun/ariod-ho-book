@@ -71,7 +71,9 @@ Android & Arduino Note
 
 ## Author
 
-- [`Haoye`](https://kancheng.github.io/)
+- [Haoye](https://kancheng.github.io/)
 
-- [`ShangHong`](https://github.com/ShangHong-CAI)
+- [ShangHong](https://github.com/ShangHong-CAI)
+
+- [kanhaojun](https://github.com/kanhaojun)
 
