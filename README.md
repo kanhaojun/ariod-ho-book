@@ -57,7 +57,9 @@ Android Note
 
 ## Arduino
 
-1.
+1. Run Arduino  - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
+
+2.
 
 
 ## Test
@@ -72,3 +74,4 @@ Android Note
 - [`Haoye`](https://kancheng.github.io/)
 
 - [`ShangHong`](https://github.com/ShangHong-CAI)
+
