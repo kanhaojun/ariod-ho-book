@@ -17,6 +17,7 @@ Android Note
 
 6.
 
+
 ## Book
 
 1. 建立一個 Android Project - [B01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B01.md)
@@ -45,7 +46,18 @@ Android Note
 
 13. Spinner 與 EditText 的運動計算 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
 
-14.
+14. ListView 點餐練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+
+15. ListView 購票 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+
+16. AdapterView 與 Spinner 點餐練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
+
+17.
+
+
+## Arduino
+
+1.
 
 
 ## Test
