@@ -66,7 +66,9 @@ Android & Arduino Note
 
 1. 建立註冊畫面 - [T01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T01.md)
 
-2.
+2. 利用 ListView 呈現註冊資料與修改功能  - [T02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T02.md)
+
+3.
 
 
 ## Author
