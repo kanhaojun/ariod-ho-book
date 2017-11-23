@@ -15,7 +15,9 @@ Android & Arduino Note
 
 5. Arduino 藍芽連線確認 - [C04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C04.md)
 
-6. Android SDK 藍芽紀錄 - [C05]()
+6. Android SDK 藍芽紀錄 - [C05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C05.md)
+
+7.
 
 
 ## Book
