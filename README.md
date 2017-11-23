@@ -58,11 +58,13 @@ Android & Arduino Note
 
 19. Alert 顯示 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
 
-20.
+20. Alert 交談練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
 
 21.
 
 22.
+
+23.
 
 
 ## Arduino
