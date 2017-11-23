@@ -54,7 +54,7 @@ Android & Arduino Note
 
 17. Toast 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
 
-18. SnackbarPra 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+18. Snackbar 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
 
 19.
 
