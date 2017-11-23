@@ -21,11 +21,6 @@ public class MainActivity extends Activity {
         }
     };
 
-    public void onItemClick(AdapterView<?> parent, View view, int position, long id){
-        Toast.makeText(MainActivity.this,
-                "Ans : " + ansArr[position], Toast.LENGTH_SHORT).show();
-    }
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
