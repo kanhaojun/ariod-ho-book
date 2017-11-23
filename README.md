@@ -15,7 +15,7 @@ Android & Arduino Note
 
 5. Arduino 藍芽連線確認 - [C04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C04.md)
 
-6.
+6. Android SDK 藍芽紀錄 - [C05]
 
 
 ## Book
@@ -52,7 +52,11 @@ Android & Arduino Note
 
 16. AdapterView 與 Spinner 點餐練習 - [B06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B06.md)
 
-17.
+17. Toast 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+
+18. SnackbarPra 練習 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
+
+19.
 
 
 ## Arduino
