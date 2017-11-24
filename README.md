@@ -87,7 +87,7 @@ Android & Arduino Note
 
 ## Raspberry Pi
 
-1. Raspbian OS - [R01]()
+1. Raspbian OS 與事前準備 - [R01]()
 
 
 ## Author
