@@ -66,9 +66,7 @@ Android & Arduino & Raspberry Pi Note
 
 21. 日期時間選擇 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
 
-22. 特定日期選擇顯示 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
-
-23.
+22. 
 
 
 ## Arduino Book
