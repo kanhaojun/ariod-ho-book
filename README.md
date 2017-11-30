@@ -66,7 +66,9 @@ Android & Arduino & Raspberry Pi Note
 
 21. 日期時間選擇 - [B07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B07.md)
 
-22. 
+22. Intent 頁面切換練習 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
+
+23.
 
 
 ## Arduino Book
