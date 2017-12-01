@@ -17,9 +17,11 @@ Android & Arduino & Raspberry Pi Note
 
 6. Android SDK 藍芽紀錄 - [C05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C05.md)
 
-7. Arduino 與 LM35 溫度測試 - [C06]()
+7. Arduino 與 LM35 溫度測試 - [C06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C06.md)
 
-8.
+8. Arduino 與 可變電阻與 LED 控制 - [C07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C07.md)
+
+9.
 
 
 ## Android Book
@@ -89,7 +91,7 @@ Android & Arduino & Raspberry Pi Note
 
 ## Raspberry Pi
 
-1. Raspbian OS 與事前準備 - [R01]()
+1. Raspbian OS 與事前準備 - [R01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/R01.md)
 
 2.
 
