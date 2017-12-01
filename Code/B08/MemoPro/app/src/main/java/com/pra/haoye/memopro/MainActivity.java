@@ -84,6 +84,16 @@ public class MainActivity extends Activity {
             }
         });
 
+        lvobj.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener(){
+            @Override
+            public boolean onItemLongClick(AdapterView<?> a, View v, int pos, long id) {
+                MemoStr[pos] = (pos + 1) + "."; /* 將內容清除 (只剩編號) */
+                aaobj.notifyDataSetChanged();  /* 通知 Adapter 要更新陣列內容 */
+                return true;     			/* 傳回 true 表示此事件已處理 */
+            }
+
+        });
+
     }
 
     private View.OnClickListener recls = new View.OnClickListener(){

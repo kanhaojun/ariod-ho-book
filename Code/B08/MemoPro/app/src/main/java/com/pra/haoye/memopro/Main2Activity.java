@@ -49,7 +49,7 @@ public class Main2Activity extends Activity {
                         bundle.putString("ReNum", temnumstrobj);
                         IntentObj.putExtras(bundle);
                         Main2Activity.this.startActivity(IntentObj);
-                        Main2Activity.this.onDestory();
+                        Main2Activity.this.finish();
 
                     }
                 }
