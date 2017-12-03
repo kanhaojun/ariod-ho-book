@@ -76,7 +76,9 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 24. Intent 實作備忘錄範例 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
 
-25.
+25. Intent 叫通訊錄與通話 - [B09](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B09.md)
+
+26.
 
 
 ## Arduino Book
