@@ -72,7 +72,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 22. Intent 頁面切換練習 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
 
-23.
+23. 備忘錄練習 Intent 傳值 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
+
+24. Intent 實作備忘錄範例 - [B08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B08.md)
+
+25.
 
 
 ## Arduino Book
