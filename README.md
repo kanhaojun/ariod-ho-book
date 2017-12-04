@@ -86,9 +86,12 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 29. Intent 控制照相圖檔尺寸 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
 
-30. Intent 控制旋轉相片 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
+30. Intent 自動旋轉相片 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
 
-31. 
+31. Intent 檢視與選取相片 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
+
+32. - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
+
 
 
 
