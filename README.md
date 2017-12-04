@@ -82,7 +82,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 27. Intent 控制照相練習 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
 
-28.
+28. Intent 控制照相存擋 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
+
+29. Intent 控制照相圖檔尺寸 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
+
+30.
 
 
 ## Arduino Book
