@@ -86,7 +86,10 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 29. Intent 控制照相圖檔尺寸 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
 
-30.
+30. Intent 控制旋轉相片 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
+
+31. 
+
 
 
 ## Arduino Book
