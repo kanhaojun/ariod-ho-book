@@ -90,7 +90,7 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 31. Intent 檢視與選取相片 - [B10](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B10.md)
 
-32. Intent 播放音樂與影片 - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
+32. Intent 選取特定的音樂與影片 - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
 
 33.
 
