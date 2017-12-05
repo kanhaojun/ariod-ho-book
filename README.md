@@ -94,7 +94,9 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 33. 控制音樂與影片的播放 - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
 
-34.
+34. 使用 VideoView - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
+
+35.
 
 
 ## Arduino Book
