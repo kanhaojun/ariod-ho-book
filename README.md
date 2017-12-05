@@ -96,7 +96,13 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 34. 使用 VideoView - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
 
-35.
+35. 顯示加速感應器數值 -  [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
+
+36. 加速感應器的水平儀練習 -  [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
+
+37. 體感控制的播放器 -  [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
+
+38.
 
 
 ## Arduino Book
