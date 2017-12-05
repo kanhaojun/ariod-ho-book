@@ -93,7 +93,7 @@ public class MainActivity extends Activity {
             uri = data.getData();
 
             /* 顯示檔名 */
-            showSongNameTVobj.setText(getFilename(uri));
+            showSongNameTVobj.setText( (isVideo? "[ Film ] " : "[ Song ]") + getFilename(uri));
 
             /* 顯示檔案的 URI */
             showFilmPathTVobj.setText("URI - " + uri.toString());
