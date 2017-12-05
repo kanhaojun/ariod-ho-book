@@ -92,7 +92,7 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 32. Intent 選取特定的音樂與影片 - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
 
-33.
+33. 控制音樂與影片的播放 - [B11](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B11.md)
 
 34.
 
