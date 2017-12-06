@@ -25,9 +25,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 9. Android 對 SDCard 寫入 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
 
-10. SQLite 練習 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
+10. Android 對 SQLite 練習 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
 
-11.
+11. Android SDK & Arduino 的 SeekBar 實作  - [C09](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C09.md)
+
+12.
 
 
 ## Android Book
