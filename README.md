@@ -104,11 +104,15 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 35. 顯示加速感應器數值 -  [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
 
-36. 加速感應器的水平儀練習 -  [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
+36. 加速感應器的水平儀練習 - [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
 
-37. 體感控制的播放器 -  [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
+37. 體感控制的播放器 - [B12](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B12.md)
 
-38.
+38. WebView 練習 - [B13](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B13.md)
+
+39. WebView 實作與 SharedPreferences - [B13](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B13.md)
+
+40.
 
 
 ## Arduino Book
