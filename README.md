@@ -23,7 +23,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 8. Arduino 與 可變電阻與 LED 控制 - [C07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C07.md)
 
-9.
+9. Android 對 SDCard 寫入 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
+
+10. SQLite 練習 - [C08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/C08.md)
+
+11.
 
 
 ## Android Book
