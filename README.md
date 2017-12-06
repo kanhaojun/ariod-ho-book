@@ -114,7 +114,13 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 40. GPS 定位與經緯度練習 - [B14](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B14.md)
 
-41.
+42. Google Map 顯示地址資訊 - [B14](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B14.md)
+
+43. 建立 SQLite - [B15](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B15.md)
+
+44. SQLite 查詢 - [B15](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B15.md)
+
+45. SQLite 練習實作 - [B15](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B15.md)
 
 
 ## Arduino Book
