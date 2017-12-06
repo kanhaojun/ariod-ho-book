@@ -112,7 +112,9 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 39. WebView 實作與 SharedPreferences - [B13](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B13.md)
 
-40.
+40. GPS 定位與經緯度練習 - [B14](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B14.md)
+
+41.
 
 
 ## Arduino Book
@@ -134,8 +136,6 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 ## Raspberry Pi
 
 1. Raspbian OS 與事前準備 - [R01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/R01.md)
-
-2.
 
 
 ## Author
