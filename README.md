@@ -114,6 +114,8 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 40. GPS 定位與經緯度練習 - [B14](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B14.md)
 
+41. 利用經緯度抓地址資訊 - [B14](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B14.md)
+
 42. Google Map 顯示地址資訊 - [B14](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B14.md)
 
 43. 建立 SQLite - [B15](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/B15.md)
