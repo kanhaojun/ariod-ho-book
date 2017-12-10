@@ -127,9 +127,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 ## Arduino Book
 
-1. Run Arduino  - [A01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
+1. Run Arduino - [A01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
 
-2.
+2. 控制 Arduino Uno 上的 LED 燈號 - [A01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
+
+3.
 
 
 ## Test
