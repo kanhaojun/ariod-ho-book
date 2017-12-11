@@ -143,7 +143,9 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 8. 控制 RGB 三色 LED  - [A05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A05.md)
 
-9.
+9. LED 排燈練習  - [A06](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A06.md)
+
+10.
 
 
 ## Test Note
