@@ -147,7 +147,9 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 10. Photoresistor 練習 - [A07](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A07.md)
 
-11.
+11. Thermistor 練習 - [A08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A08.md)
+
+12.
 
 
 
