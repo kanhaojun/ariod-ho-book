@@ -141,7 +141,9 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 7. Serial Port 傳值至 PC 視窗 - [A04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A04.md)
 
-8.
+8. 控制 RGB 三色 LED  - [A05](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A05.md)
+
+9.
 
 
 ## Test Note
