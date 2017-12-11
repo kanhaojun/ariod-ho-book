@@ -135,7 +135,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 4. 使用開關控制 LED 燈號 - [A02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A02.md)
 
-5.
+5. 類比控制 LED 燈號顯示 - [A03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A03.md)
+
+6. 可變電阻控制 LED - [A03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A03.md)
+
+7.
 
 
 ## Test Note
