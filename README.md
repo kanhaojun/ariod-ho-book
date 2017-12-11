@@ -138,7 +138,7 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 5.
 
 
-## Test
+## Test Note
 
 1. 建立註冊畫面 - [T01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T01.md)
 
@@ -147,7 +147,7 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 3.
 
 
-## Raspberry Pi
+## Raspberry Pi Note
 
 1. Raspbian OS 與事前準備 - [R01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/R01.md)
 
