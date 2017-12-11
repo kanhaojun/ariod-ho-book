@@ -131,7 +131,11 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 2. 控制 Arduino Uno 上的 LED 燈號 - [A01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A01.md)
 
-3.
+3. 控制 LED 燈號顯示 - [A02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A02.md)
+
+4. 使用開關控制 LED 燈號 - [A02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A02.md)
+
+5.
 
 
 ## Test
