@@ -139,16 +139,18 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 6. 可變電阻控制 LED - [A03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A03.md)
 
-7.
+7. Serial Port 傳值至 PC 視窗 - [A04](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A04.md)
+
+8.
 
 
 ## Test Note
 
 1. 建立註冊畫面 - [T01](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T01.md)
 
-2. 利用 ListView 呈現註冊資料與修改功能  - [T02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T02.md)
+2. 利用 ListView 呈現註冊資料與修改功能 - [T02](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T02.md)
 
-3.
+3. 使用 SQLite 、 SDCard 、 Intent 、 Bundle 的實作 - [T03](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/T03.md)
 
 
 ## Raspberry Pi Note
