@@ -149,8 +149,7 @@ All Project [Code](https://github.com/CodeMercs/ariod-ho-book/tree/master/Code/)
 
 11. Thermistor 練習 - [A08](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A08.md)
 
-12.
-
+12. 按鈕計數器練習 - [A09](https://github.com/CodeMercs/ariod-ho-book/blob/master/Note/A09.md)
 
 
 ## Test Note
